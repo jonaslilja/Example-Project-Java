@@ -1,0 +1,74 @@
+<style>
+
+h1, h2{text-align: left;}
+h3, h4 {text-align: center;}
+
+.ribbon {
+	float: left;
+   top: 10;
+   left: 0;
+   height: 15%;
+   width: 110px;
+}
+
+
+#Name {
+   position:left;
+   
+}
+
+
+.sidebar {
+
+height: 150%;
+width: 200px;
+position: absolute;
+right: 0;
+top: 0;
+padding-top: 40px;
+background-color: lightgrey;
+}
+
+.sidebar div {
+padding: 5px;
+font-size: 15px;
+display: block;
+}
+
+  #sidebar{
+  float: right;
+  top: 0;
+  position: absolute; /* for disclaimer */
+  width: 200;
+  height: 100%;
+  padding: 0.6in var(--sidebar-horizontal-padding);
+  background-color: #f2f2f2;
+  font-size: 10pt;
+}
+
+.body-text {
+margin-right: 150px;
+font-size: 18px;
+}
+
+.main {
+
+height: 110%;
+width: 500px;
+position: absolute;
+right: left;
+top: 30;
+padding-top: 40px;
+}
+
+.main div {
+padding: 8px;
+font-size: 12px;
+display: block;
+}
+
+.body-text {
+margin-right: 150px;
+font-size: 18px;
+}
+</style>
