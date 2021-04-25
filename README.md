@@ -22,7 +22,7 @@ Filerna kan köras från terminalen genom att:
    # style.css 
     CSS-kod för CV
 
-# Adobe exempel 
-Exempel på posters jag har skapat i Adbobe  
+# Adobe projekt 
+ Några olika bilder på saker som jag har gjort i Adobe som en del av mitt engagemang i olika projektgrupper under studietiden: 
 
 
