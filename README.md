@@ -1,5 +1,5 @@
 # Main
-Innehåller ett projekt i team-programmering som jag gjord tillsammans med några andra studenter.
+Innehåller ett projekt i team-programmering som jag gjorde tillsammans med några andra studenter.
 
 
 Filerna kan köras från terminalen genom att:
