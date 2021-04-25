@@ -1,47 +1,64 @@
 <style>
 
-h1, h2{text-align: left;}
+
+#Namn {
+    font-size:200%;
+    Position:absolute;
+    top: 5%;
+    left: 35%;
+    color: "#5D8896";
+    width: 150;  
+}
+
+#undertext {
+    font-size:120%;
+    Position:absolute;
+    top: 9.9%;
+    left: 34.5%;
+    color: "#5D8896";
+    width: 150; 
+}
+
+
 h3, h4 {text-align: center;}
 
-.ribbon {
-	float: left;
+.bild {
+   float: left;
    top: 10;
    left: 0;
    height: 15%;
    width: 110px;
 }
 
-
-#Name {
-   position:left;
-   
-}
-
-
 .sidebar {
 
-height: 150%;
-width: 200px;
+     height: 580px;
+     width: 630px;
+        margin-left: auto;
+        margin-right: auto;
+
+
 position: absolute;
 right: 0;
 top: 0;
-padding-top: 40px;
-background-color: lightgrey;
+padding-top: 70px;
+background-color: white;
 }
 
 .sidebar div {
 padding: 5px;
 font-size: 15px;
 display: block;
+
 }
 
   #sidebar{
   float: right;
   top: 0;
-  position: absolute; /* for disclaimer */
-  width: 200;
-  height: 100%;
-  padding: 0.6in var(--sidebar-horizontal-padding);
+  position: absolute; 
+  width: 180px;
+  height: 200%;
+  padding: 0.5in var;
   background-color: #f2f2f2;
   font-size: 10pt;
 }
@@ -50,6 +67,14 @@ display: block;
 margin-right: 150px;
 font-size: 18px;
 }
+
+body {
+
+        height: 842px;
+        width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+ }
 
 .main {
 
