@@ -7,13 +7,16 @@ Filerna kan köras från terminalen genom att:
 2. Kör: java logger/Main.java
 3. Programmets användargränsnitt öppnas och programmet kan användas
 
-# index.html: 
-HTML-kod för CV
+# HTML & CSS 
+ Innehåller kod och pdf för cv omskrivet med hjälp av HTML och CSS
 
-# style.css 
-CSS-kod för CV
+  # index.html: 
+    HTML-kod för CV
 
-# Adobe exempel 1 & 2
-Exempel på posters jag skapat i Adbobe i min post som marknadsföringsansvarig vid studentförening  
+   # style.css 
+    CSS-kod för CV
+
+# Adobe exempel 
+Exempel på posters jag har skapat i Adbobe  
 
 
