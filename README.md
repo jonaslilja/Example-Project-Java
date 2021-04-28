@@ -1,28 +1,7 @@
 # Main
 Innehåller ett projekt i team-programmering som jag gjorde tillsammans med några andra studenter.
 
-
 Filerna kan köras från terminalen genom att:
 1. Kompilera: javac logger/Main.java
 2. Kör: java logger/Main.java
 3. Programmets användargränsnitt öppnas och programmet kan användas
-
-# HTML & CSS 
- Innehåller kod och pdf för cv omskrivet med hjälp av HTML och CSS
-  
-  # CV i chrome
-   En del av hur CV:t ser ut i chrome
-  
-  # cv.html
-   Den sammansatta filen för CV:t som innehåller både HTML och CSS
- 
-  # index.html: 
-    HTML-kod för CV
-
-   # style.css 
-    CSS-kod för CV
-
-# Adobe projekt 
- Några olika bilder på saker som jag har gjort i Adobe som en del av mitt engagemang i olika projektgrupper under studietiden: 
-
-
